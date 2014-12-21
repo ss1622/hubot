@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "undefined <undefined>",
-  "description": "A simple helpful robot for your Company ",
+  "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.10.0",
     "hubot-calculator": ">= 0.3.0",
